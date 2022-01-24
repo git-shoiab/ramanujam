@@ -1,5 +1,5 @@
 package ramanujam;
-
+// aan super pa, nalla panni irukkinga.....
 public class ArrayDemo {
 	public static void main(String[] args) {
 		//ARRAYS ARE NON MUTABLE - ONCE DECLARED YOU CANNOT MODIFIY THE ARRAY SIZE OR TYPE
